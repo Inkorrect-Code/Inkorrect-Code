@@ -47,19 +47,14 @@
   </style>
   
   <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-  </ul>
-</div>
-
-  <ul>
     <li>Work on passion projects that make life more fun</li>
     <li>Short moments with longtime friends</li>
     <li>Try new restaurants and experiences</li>
     <li>Travel</li>
     <li>Watch anime</li>
   </ul>
+</div>
+
 <br><br>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9yzebej8g4v3cxjp1naqxeouh&width=1000≤{width}≤5000)
