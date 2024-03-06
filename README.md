@@ -1,7 +1,6 @@
 [![MasterHead](https://i.imgur.com/mpZr9PV.png)](https://github.com/Inkorrect-Code)
 
 
-
   <div align="center">
   <a href="mailto:ntongprofessional@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -41,6 +40,8 @@
 
 
 <br><br>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNmYXN4aW42czh4b3ZvcW1hODQ3cjI4dHg3YmhnbHVkcWRwaDRmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NseJL9Zj9kttS/giphy.gif" width="4000" height="75" />
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9yzebej8g4v3cxjp1naqxeouh&width=1000≤{width}≤5000)
 
