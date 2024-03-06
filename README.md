@@ -39,7 +39,7 @@
 
 <h3 align="center">Personal 👀</h3>
   <p align="center">
-    <ul>
+    <ul align="center">
       <li>Work on passion projects that make life more fun</li>
       <li>Short moments with longtime friends</li>
       <li>Try new restaurants and experiences</li>
