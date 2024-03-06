@@ -20,6 +20,9 @@
 
 <p align="center">I am a Fullstack Developer currently living in the New York City area. Recently attended App Academy, and currently looking to learn and implement my skills in a new new position. I am a passionate learner always willing to work across new technologies and domains, exploring them to leverage towards solutions for real-life problems.</p>
 
+<p align="center">In my free time I enjoy working on passion projects that make life more fun, short moments with long-time friends, and trying new restaurants and experiences whenever I can.
+</p>
+
 
 
 <h3 align="center">My Activities 💻</h3>
@@ -36,24 +39,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </div>
 
-
-<h3 align="center">Personal 👀</h3>
-<div align="center">
-  <style>
-    ul {
-      text-align: left;
-      list-style-position: inside;
-    }
-  </style>
-  
-  <ul>
-    <li>Work on passion projects that make life more fun</li>
-    <li>Short moments with longtime friends</li>
-    <li>Try new restaurants and experiences</li>
-    <li>Travel</li>
-    <li>Watch anime</li>
-  </ul>
-</div>
 
 <br><br>
 
