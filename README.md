@@ -20,7 +20,7 @@
 
 <p align="center">I am a Fullstack Developer currently living in the New York City area. Recently attended App Academy, and currently looking to learn and implement my skills in a new new position. I am a passionate learner always willing to work across new technologies and domains, exploring them to leverage towards solutions for real-life problems.</p>
 
-<p align="center">In my free time I enjoy working on passion projects that make life more fun, short moments with long-time friends, and trying new restaurants and experiences whenever I can.
+<p align="center">In my peronal life I enjoy working on passion projects that make life more fun, short moments with long-time friends, and trying new restaurants and experiences whenever I can. I love connecting with all people alike, and welcome you to my profile!
 </p>
 
 
