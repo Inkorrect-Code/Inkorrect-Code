@@ -1,5 +1,7 @@
 [![MasterHead](https://i.imgur.com/mpZr9PV.png)](https://github.com/Inkorrect-Code)
 
+<br><br><br>
+
   <div align="center">
   <a href="mailto:ntongprofessional@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -12,10 +14,9 @@
   </a>
   </div>
 
+
+
 I am a Fullstack Developer currently living in New York City. Recently attended App Academy, and currently looking to learn and implement my skills in a new new position. I am a passionate leaner always willing to work across new technologies and domains, exploring them to leverage towards solutions for real-life problems. 
-<br><br><br>
-
-
 
 
 
@@ -25,6 +26,7 @@ I am a Fullstack Developer currently living in New York City. Recently attended 
   <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkorrect-Code&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 </div>
+
 
 
 <h3 align="center">Tech Stack ⚙️</h3>
