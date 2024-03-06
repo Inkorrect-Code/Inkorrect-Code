@@ -39,12 +39,12 @@
 
 <h3 align="center">Personal 👀</h3>
   <p align="center">
-    <ul align="center">
-      <li>Work on passion projects that make life more fun</li>
-      <li>Short moments with longtime friends</li>
-      <li>Try new restaurants and experiences</li>
-      <li>Travel</li>
-      <li>Watch anime</li>
+    <ul>
+      <li align="center">Work on passion projects that make life more fun</li>
+      <li align="center">Short moments with longtime friends</li>
+      <li align="center">Try new restaurants and experiences</li>
+      <li align="center">Travel</li>
+      <li align="center">Watch anime</li>
     </ul>
   </p>
 <br><br>
