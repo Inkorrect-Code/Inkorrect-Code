@@ -38,15 +38,15 @@
 
 
 <h3 align="center">Personal 👀</h3>
-  <p align="center">
-    <ul>
-      <li align="center">Work on passion projects that make life more fun</li>
-      <li align="center">Short moments with longtime friends</li>
-      <li align="center">Try new restaurants and experiences</li>
-      <li align="center">Travel</li>
-      <li align="center">Watch anime</li>
-    </ul>
-  </p>
+  <div id="section1">
+    <div id="abc">
+      <li>Work on passion projects that make life more fun</li>
+      <li>Short moments with longtime friends</li>
+      <li>Try new restaurants and experiences</li>
+      <li>Travel</li>
+      <li>Watch anime</li>
+    </div>
+  </div>
 <br><br>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9yzebej8g4v3cxjp1naqxeouh&width=1000≤{width}≤5000)
