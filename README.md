@@ -38,13 +38,11 @@
 
 
 <h3 align="center">Personal 👀</h3>
-  <div align="center">
-    * Work on passion projects that make life more fun
-    * Short moments with longtime friends
-    * Try new restaurants and experiences
-    * Travel
-    * Watch anime
-  </div>
+  <p align="center">- Work on passion projects that make life more fun
+    - Short moments with longtime friends
+    - Try new restaurants and experiences
+    - Travel
+    - Watch anime</p>
 <br><br>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9yzebej8g4v3cxjp1naqxeouh&width=1000≤{width}≤5000)
