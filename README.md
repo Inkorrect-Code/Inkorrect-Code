@@ -17,7 +17,7 @@ I am a Full Stack engineer currently living in New York City. Recent graduate of
   </div>
 
 
-
+<br><br><br>
 
 
 
@@ -29,7 +29,7 @@ I am a Full Stack engineer currently living in New York City. Recent graduate of
 </div>
 
 
-
+<br><br><br>
 
 ### Tech Stack ⚙️
 <div>
