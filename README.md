@@ -19,7 +19,7 @@ I am a Fullstack Developer currently living in New York City. Recently attended 
 
 
 
-### My Activities 💻
+<h3 align="center">My Activities 💻</h3>
  <div align="center">
 <a href="https://github.com/Inkorrect-Code">
   <img  alt="Pepyn" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkorrect-Code&theme=midnight-blue&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
