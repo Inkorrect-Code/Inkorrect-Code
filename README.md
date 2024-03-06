@@ -38,7 +38,7 @@
 
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9yzebej8g4v3cxjp1naqxeouh)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=9yzebej8g4v3cxjp1naqxeouh&unique={true|1|on|yes})
 
 <!--
 **Inkorrect-Code/Inkorrect-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
