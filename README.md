@@ -14,7 +14,7 @@
   </a>
   </div>
 
-<br><br>
+<br>
 
 I am a Fullstack Developer currently living in New York City. Recently attended App Academy, and currently looking to learn and implement my skills in a new new position. I am a passionate leaner always willing to work across new technologies and domains, exploring them to leverage towards solutions for real-life problems. 
 
