@@ -1,5 +1,7 @@
 [![MasterHead](https://i.imgur.com/mpZr9PV.png)](https://github.com/Inkorrect-Code)
 
+
+
 I am a Full Stack engineer currently living in New York City. Recent graduate of App Academy, and currently looking to learn and implement my skills in a new job.
 
   <div align="center">
@@ -13,6 +15,8 @@ I am a Full Stack engineer currently living in New York City. Recent graduate of
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIN"/>
   </a>
   </div>
+
+
 
 
 
