@@ -19,8 +19,6 @@ I am a Fullstack Developer currently living in New York City. Recently attended 
 
 <br><br><br>
 
-
-
 ### My Activities 💻
  <div align="center">
 <a href="https://github.com/Inkorrect-Code">
