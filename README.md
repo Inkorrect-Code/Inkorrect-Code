@@ -2,7 +2,7 @@
 
 
 
-I am a Full Stack engineer currently living in New York City. Recent graduate of App Academy, and currently looking to learn and implement my skills in a new job.
+I am a Fullstack Developer currently living in New York City. Recently attended App Academy, and currently looking to learn and implement my skills in a new new position.
 
   <div align="center">
   <a href="mailto:ntongprofessional@gmail.com" target="_blank">
