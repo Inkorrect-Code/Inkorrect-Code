@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nick Tong
+[![MasterHead](your image link)]
 I am a Full Stack engineer currently living in New York City. Recent graduate of App Academy, and currently looking to learn and implement my skills in a new job.
 
   <div align="center">
