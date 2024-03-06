@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/gallery/mpZr9PV)]
+[![MasterHead](https://images6.alphacoders.com/124/1244919.jpg)]
   <img align="right" alt="Coding" width="400" src="https://imgur.com/gallery/mpZr9PV">
 I am a Full Stack engineer currently living in New York City. Recent graduate of App Academy, and currently looking to learn and implement my skills in a new job.
 
